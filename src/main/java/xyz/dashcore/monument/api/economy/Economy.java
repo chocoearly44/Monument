@@ -7,14 +7,17 @@ import org.spongepowered.api.entity.living.player.Player;
  */
 public interface Economy {
 	/* GENERAL SETUP */
+
 	/**
 	 * Checks if economy method is enabled.
+	 *
 	 * @return Success or Failure
 	 */
 	public boolean isEnabled();
 
 	/**
 	 * Gets name of Economy plugin
+	 *
 	 * @return Name of Economy plugin
 	 */
 	public String getEconomyName();
@@ -46,8 +49,10 @@ public interface Economy {
 	/* GENERAL SETUP */
 
 	/* ACCOUNT */
+
 	/**
 	 * Attempts to create a player account for the given player
+	 *
 	 * @param player Player
 	 * @return if the account creation was successful
 	 */
@@ -64,6 +69,7 @@ public interface Economy {
 	/* ACCOUNT */
 
 	/* BALANCE */
+
 	/**
 	 * Gets balance of a player
 	 *
