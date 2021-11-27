@@ -1,8 +1,9 @@
-# Monument
-A SpongeForge alternative for Vault Bukkit.
+<h1 align="center">Monument</h1>
+
+<p align="center">A SpongeForge alternative for Vault Bukkit.</p>
 
 ## For developers
-Please refer to the [Wiki Section](https://github.com/chocoearly44/Pencilcase/wiki).
+Please refer to the [Wiki Section](https://github.com/DashcoreModding/Monument/wiki).
 
 ## Installation
 1. Download and setup [Sponge Server](https://www.spongepowered.org/)
@@ -14,6 +15,9 @@ Please refer to the [Wiki Section](https://github.com/chocoearly44/Pencilcase/wi
 
 ## Bug reporting
 If you encounter any bugs while using Monument please report them in the [Issues Section](https://github.com/DashcoreModding/Monument/issues) on GitHub Repository.
+
+## Special Thanks
+A special thanks go to [MilkBowl](https://github.com/MilkBowl) that made the original [Vault Plugin](https://github.com/milkbowl/Vault) for Bukkit on which Monument is very much based.
 
 ## Support
 You can receive additional support in an official Discord Server.
