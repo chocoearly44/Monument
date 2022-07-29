@@ -1,4 +1,8 @@
 ## Contributing
+### Requirements
+- Minecraft 1.12.2
+- SpongeForge v7.3.0
+
 If you have a suggestion that would make this better, please fork the repo and create a pull request.
 Don't forget to give the project a star! Thanks again!
 
